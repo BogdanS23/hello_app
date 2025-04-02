@@ -2,7 +2,7 @@
   "name": "hello-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://bogdans23.github.io/hello_app",
+  "homepage": "https://BogdanS23.github.io/hello_app",
   "type": "module",
   "scripts": {
     "dev": "vite",
